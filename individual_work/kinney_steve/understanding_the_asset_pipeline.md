@@ -14,6 +14,7 @@ In this talk, we'll cover the following topics:
 * Adding assets to manifests to create asset bundles
 * Learning when not to use Asset Pipeline manifests
 * Adding support for additional types of assets
+* Creating a Gem that adds a library or other asset into the pipeline
 
 The target audience is advanced beginner and intermediate Rails developers.
 
